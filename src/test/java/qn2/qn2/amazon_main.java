@@ -1,5 +1,5 @@
-package features;
 
+package qn2.qn2;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
